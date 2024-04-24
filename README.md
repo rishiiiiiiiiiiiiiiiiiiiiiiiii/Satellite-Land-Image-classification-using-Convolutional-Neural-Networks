@@ -23,6 +23,8 @@ The aim of this research is to utilize deep learning techniques, specifically Co
 - Demonstrated the model's classification ability on external images, showcasing its broader applicability.
 
 
+Presentation Link: https://www.canva.com/design/DAFhHZ68sgg/torEvawz-IWRBW7eFnRWew/edit
+
 ### Conclusion
 
 Our study employs Convolutional Neural Networks (CNNs) to classify images sourced from the EuroSAT dataset. This dataset serves for both training and testing the CNN model, achieving an impressive accuracy of 98%. Despite using small RGB images for training, the computational time for processing these images was slightly higher compared to standard JPG images. Ultimately, our classification model accurately categorizes input images into their binary classes [0, 0, 1] with a 98% accuracy rate.
